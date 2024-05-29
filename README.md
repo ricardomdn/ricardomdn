@@ -14,7 +14,7 @@
  
  🌱 Desenvolvendo projetos **Front-end e Back-end**
 
-💬 Me pergunte sobre **Python, Banco de dados, HTML... ou outra coisa [aqui](https://github.com/ricardomdn/ricardomdn/issues)**
+💬 Me pergunte sobre **Python, Java, HTML... ou outra coisa [aqui](https://github.com/ricardomdn/ricardomdn/issues)**
 
 ⚡ Tenho um gatinho chamado **Potter**
 
