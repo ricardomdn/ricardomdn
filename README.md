@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Linguagens & Frameworks que Tenho Domíno e Interesse ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,,java,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,java,bootstrap" />
    <!-- <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br> -->
 </div>
 
