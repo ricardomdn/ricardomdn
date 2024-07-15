@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Olá!+👋+Tudo+Bem?;+Me+Chamo+Ricardo+Manhães!;" />
 </h1>
 
-<h3 align="center">Um desenvolvedor software apaixonado em exploits 💻</h3>
+<h3 align="center">Desenvolvedor de software apaixonado em exploits 💻</h3>
 
 <br/>
 
