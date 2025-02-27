@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 📚 Atualmente estudando Sistemas de Informação na **Unifacisa**
+ 📚 Atualmente sou estudante de Sistemas de Informação na **Unifacisa**
  
  🌱 Desenvolvendo projetos **Front-end e Back-end**
 
